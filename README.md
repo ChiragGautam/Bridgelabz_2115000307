@@ -39,3 +39,7 @@ january 31 - Using Access modifiers, getter and setter methods.
            - worked with constructors to initialize class attributes.
            - Using This keyword which refers to the current class instance in Java.
            - Created a specific method displayDetails() to display details.
+feb 02 - Use static for shared values.
+       - Using This keyword which refers to the current class instance in Java.
+       - Using final variables for identifiers or constants that should remain unchanged.
+       - Using instanceof for safe type-checking and to prevent runtime errors during typecasting.
