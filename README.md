@@ -44,3 +44,9 @@ feb 02 - Use static for shared values.
        - Using This keyword which refers to the current class instance in Java.
        - Using final variables for identifiers or constants that should remain unchanged.
        - Using instanceof for safe type-checking and to prevent runtime errors during typecasting.
+
+feb 04 - learned how to visually represent class relationships, including aggregation, composition, and association.
+       - You understood how to represent objects and their states through object diagrams.
+       - You learned the difference between aggregation and composition, where aggregation allows independent existence of objects, and composition means objects depend on the parent object.
+       - You learned how to represent associations between objects, like the relationship between a customer and their account.
+       - You gained an understanding of UML relationships and how to diagrammatically represent different types of relationships, such as association, aggregation, and composition.
