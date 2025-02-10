@@ -58,3 +58,8 @@ feb 06 - Use Inheritance
        - Method Overriding
        - Constructor Inheritance in Java
        - Access Modifiers and Inheritance
+
+feb 08 - Encapsulation: Use private fields and public getter/setter methods to protect data, ensuring controlled access and validation. For immutable classes, use final fields and avoid setters.
+       - Polymorphism: Program to interfaces, not implementations. This allows handling different object types flexibly, reducing the need for explicit casting and improving maintainability.
+       - Interfaces: Define behaviors via interfaces to ensure consistent structure and allow reusability. Use default methods carefully to maintain backward compatibility.
+       - Abstract Classes: Provide common functionality for related classes, and force subclasses to implement specific methods. This helps keep inheritance hierarchies clean and flexible.
