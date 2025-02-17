@@ -63,3 +63,21 @@ feb 08 - Encapsulation: Use private fields and public getter/setter methods to p
        - Polymorphism: Program to interfaces, not implementations. This allows handling different object types flexibly, reducing the need for explicit casting and improving maintainability.
        - Interfaces: Define behaviors via interfaces to ensure consistent structure and allow reusability. Use default methods carefully to maintain backward compatibility.
        - Abstract Classes: Provide common functionality for related classes, and force subclasses to implement specific methods. This helps keep inheritance hierarchies clean and flexible.
+
+feb 10 - Single Linked List
+       - Double Linked List
+       - Circular Linked List
+       - Continuing hands-on practice with linked list data structures.
+
+feb 12 - Stack, Queue, HashMap, and Hashing Function
+       - Practice Work:
+           Implemented Stack and Queue operations.
+           Implemented HashMap and designed a custom Hashing Function.
+
+feb 13 - Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort, Counting Sort
+
+feb 14 - StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, Binary Search
+       - Practice Work:
+           Implemented and tested string manipulation using StringBuilder and StringBuffer.
+           Worked with file handling using FileReader and InputStreamReader.
+           Implemented and tested Linear Search and Binary Search algorithms
